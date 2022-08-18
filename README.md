@@ -51,7 +51,6 @@ Food Swipe Application connects hotels and customers. Here, various hotels and u
 # Contributors
 - Naveen kumar
 - Nikhil Thorat
-- Rohit Chaudhary
 - Rushikesh Khorate
 - Nitin kothwal
 - Vishal Nannavare
@@ -67,4 +66,5 @@ Food Swipe Application connects hotels and customers. Here, various hotels and u
 - Ritika Raina
 - Shradha Paliwal
 - Shahid Sheikh
+- Rohit Chaudhary
 
