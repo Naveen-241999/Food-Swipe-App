@@ -34,7 +34,7 @@ Food Swipe Application connects hotels and customers. Here, various hotels and u
 
 
 
-# Feature
+# Features
 
 - User and admin can sign in & register in this app.
 - Admin can upload their foods menu , available foods and available rooms in their hotel.
