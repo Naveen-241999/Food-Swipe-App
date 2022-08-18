@@ -42,6 +42,7 @@ Food Swipe Application connects hotels and customers. Here, various hotels and u
 - User can also search availablilty of rooms in hotel and order foods either online or in that particular hotel.
 - Admin can recived the order requests by the users.
 - Admin can send time limit in that ordered food reached to that place.
+- Admin can see the foodcart which order is delivered and which is yet to be deliver.
 - User can pay bill through the QR code in the hotel.
 - User can also pay online bill through credit card or debit card or Net banking.
 
