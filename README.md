@@ -1,35 +1,21 @@
 # Project Description
-Food Swipe Application connects hotels and customers. Here, various hotels and users can register. Users can search hotels, see details, choose hotels, order food online, or by going to that hotel. And hotels can manage their orders, serve food, and get payment from customers.
+Food Swipe Application connects hotels and customers. Here, various hotels and users can register. Users can search hotels, see details, choose hotels, order food online, or by going to that hotel.
 
 # Technologies Used
 - Visual Stdio Code
 - Angular
 - HTML
 - CSS
-- Bootstrap
 - Typescript
-- Java
-- Spring Framework
 - Spring Boot
-- JPA Repository
 - Lombok
 - Maven
-- Hibernate
-- H2
 - MySQL
-- Spring Security
 - JUnit
-- Mockito
-- Jasmine
-- Karma
-- Jacoco
-- Maven
 - Postman
 - Docker
-- Jenkins
 - Git
 - Aws
-- Heroku
 - Agile Framework
 
 
@@ -43,29 +29,15 @@ Food Swipe Application connects hotels and customers. Here, various hotels and u
 - Admin can recived the order requests by the users.
 - Admin can send time limit in that ordered food reached to that place.
 - Admin can see the foodcart which order is delivered and which is yet to be deliver.
-- User can pay bill through the QR code in the hotel.
-- User can also pay online bill through credit card or debit card or Net banking.
 
 
 
 
 # Contributors
 - Naveen kumar
-- Nikhil Thorat
-- Rushikesh Khorate
-- Nitin kothwal
-- Vishal Nannavare
-- Prathmesh Tekde
-- Shruti Lokhare
 - Poonam patil
-- Srikant 
-- Mayur Gadekar
-- Rahul Kumar
 - Avinash Kumar
-- Sayali Khandiooz
 - Aman Somvanshi
 - Ritika Raina
-- Shradha Paliwal
-- Shahid Sheikh
 - Rohit Chaudhary
 
