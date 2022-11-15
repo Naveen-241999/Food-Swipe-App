@@ -16,7 +16,6 @@ Food Swipe Application connects hotels and customers. Here, various hotels and u
 - Docker
 - Git
 - Aws
-- Agile Framework
 
 
 
